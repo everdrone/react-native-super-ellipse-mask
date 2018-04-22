@@ -1,7 +1,7 @@
 {
   "name": "react-native-super-ellipse-mask",
   "version": "1.0.6",
-  "description": "",
+  "description": "Apple flavored smooth corners for React Native",
   "main": "index.js",
   "scripts": {},
   "keywords": [
@@ -13,8 +13,12 @@
     "curvature",
     "continuity"
   ],
-  "author": "",
-  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/everdrone/react-native-super-ellipse-mask"
+  },
+  "author": "everdrone",
+  "license": "Apple flavored smooth corners for React Native",
   "peerDependencies": {
     "prop-types": "^15.6.1"
   }
