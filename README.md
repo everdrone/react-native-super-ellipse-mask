@@ -3,7 +3,7 @@
 <br/><br/>
 </h1>
 
-Apple flavored smooth corners for React Native
+Apple flavored smooth corners for React Native (iOS only).
 
 ## Screenshots
 ![Individual Corners](https://raw.githubusercontent.com/everdrone/react-native-super-ellipse-mask/master/media/screenshot.png)
@@ -48,7 +48,7 @@ react-native link react-native-super-ellipse-mask
 #### Props
 - `radius` `object | number`: Sets the corner radius.
   - `number`: uniform corner radius.
-  - `object`:  
+  - `object`: `{topLeft, topRight, bottomRight, bottomLeft}`
 
 ## Contribute
 
