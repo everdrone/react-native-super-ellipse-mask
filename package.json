@@ -1,0 +1,21 @@
+{
+  "name": "react-native-super-ellipse-mask",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "react-native",
+    "squircle",
+    "smooth",
+    "rounded",
+    "superellipse",
+    "curvature",
+    "continuity"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "prop-types": "^15.6.1"
+  }
+}
