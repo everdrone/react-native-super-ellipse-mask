@@ -5,13 +5,16 @@
 
 Apple flavored smooth corners for React Native
 
+## Screenshots
+![Individual Corners](https://raw.githubusercontent.com/everdrone/react-native-super-ellipse-mask/master/media/screenshot.png)
+
 ## Install
 
 ```bash
 yarn add react-native-super-ellipse-mask
 ```
 
-### Linking
+## Link
 
 #### Automatic
 
@@ -41,3 +44,13 @@ react-native link react-native-super-ellipse-mask
   />
 </SuperEllipseMask>
 ```
+
+#### Props
+- `radius` `object | number`: Sets the corner radius.
+  - `number`: uniform corner radius.
+  - `object`:  
+
+## Contribute
+
+Found a bug? [File an issue](https://github.com/everdrone/react-native-super-ellipse-mask/issues)  
+Already know how to fix it? [Open a Pull Request](https://github.com/everdrone/react-native-super-ellipse-mask/pulls)
