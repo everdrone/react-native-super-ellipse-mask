@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="media/banner.png" alt="SuperEllipse" />
+<img src="https://raw.githubusercontent.com/everdrone/react-native-super-ellipse-mask/master/media/banner.png" alt="SuperEllipse" />
 <br/><br/>
 </h1>
 
